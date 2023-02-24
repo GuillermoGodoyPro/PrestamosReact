@@ -1,6 +1,7 @@
 ## Descripción 
 
 App para calcular préstamos con React js.
+sugiero ver directamente en https://prestamos-react-gg.netlify.app/ o en mi portfolio. Fué realizado con react de manera muy sencilla pero eliminé el código original haciendo experimentos con git y el único backup que me tengo a mano es el build. Si a alguien le interesa, podré buscar el código en mi notebook. Saludos
 
 ## Autor -
 **Godoy Guillermo**
